@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 2%;
+	font-family: Verdana, sans-serif;
+	background: white;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.container {
+	padding: 3% 2%;
+	background: lightcyan;
+	width: 500px;
+	height: 600px;
+	margin: 0 auto;
+}
